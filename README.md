@@ -1,3 +1,8 @@
+# Informações importantes
+Commit da raiz inicial 23/09
+SDK -> Qualquer um >= 57 (Se não quiser usar um sdk dá pra instalar uma versão compactada no celular pra servir de 'versão do aplicativo')
+Linguagens: React Expo Native (Igual o Native, a != é que no native tem um componente chamada div, e no Expo Native se chama view (os dois fazer a mesma coisa)), TypeScript, JavaScript, SQL próprio do React (igual ao MySQL)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
